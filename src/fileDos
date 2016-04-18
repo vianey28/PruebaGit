@@ -1,1 +1,6 @@
-hola
+package edu.mondragon.junit.calculadora;
+public class Calculadora {	 
+	 public int dividir(int datoUno, int datoDos){
+		  return datoUno / datoDos;
+		 }
+}
