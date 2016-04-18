@@ -1,1 +1,6 @@
-hskdhv
+package edu.mondragon.junit.calculadora;
+public class Calculadora {
+	 public int restar(int datoUno, int datoDos){
+	  return datoUno - datoDos;
+	 }
+}
