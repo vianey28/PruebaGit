@@ -1,7 +1,13 @@
 package edu.mondragon.junit.calculadora;
-public class Calculadora {	
 
-	 public int multiplicar(int datoUno, int datoDos){
+public class Calculadora {	 
+	
+	public int multiplicar(int datoUno, int datoDos){
 	  return datoUno * datoDos;
 	 }
+	 
+	 public int dividir(int datoUno, int datoDos){
+	  return datoUno / datoDos;
+	 }
+		 
 }
