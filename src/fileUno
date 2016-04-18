@@ -1,1 +1,6 @@
-cambiando el fichero, cambiando el fichero  de master , sdkjfhkdsfbhkbfhjjkdgshksj,  agregar  mas  datos
+package edu.mondragon.junit.calculadora;
+public class Calculadora {
+	 public int sumar(int datoUno, int datoDos){
+	  return datoUno + datoDos; 
+	 }
+}
